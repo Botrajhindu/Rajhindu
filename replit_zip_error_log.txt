@@ -1,0 +1,7 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2024-12-02T09:36:38Z"}
+{"error":"read /home/runner/21113373838393939399/modules/commands/noprefix/mi.mp4: input/output error","level":"error","msg":"unable to write file modules/commands/noprefix/mi.mp4","time":"2024-12-02T09:36:44Z"}
+{"error":"read /home/runner/21113373838393939399/modules/commands/noprefix/sad/A1.mp4: input/output error","level":"error","msg":"unable to write file modules/commands/noprefix/sad/A1.mp4","time":"2024-12-02T09:36:45Z"}
+{"error":"read /home/runner/21113373838393939399/modules/commands/noprefix/sad/A2.mp4: input/output error","level":"error","msg":"unable to write file modules/commands/noprefix/sad/A2.mp4","time":"2024-12-02T09:36:45Z"}
+{"error":"read /home/runner/21113373838393939399/modules/commands/noprefix/sad/A3.mp4: input/output error","level":"error","msg":"unable to write file modules/commands/noprefix/sad/A3.mp4","time":"2024-12-02T09:36:45Z"}
+{"error":"read /home/runner/21113373838393939399/modules/commands/noprefix/sad/A4.mp4: input/output error","level":"error","msg":"unable to write file modules/commands/noprefix/sad/A4.mp4","time":"2024-12-02T09:36:45Z"}
+{"error":"read /home/runner/21113373838393939399/modules/commands/noprefix/v.mp3: input/output error","level":"error","msg":"unable to write file modules/commands/noprefix/v.mp3","time":"2024-12-02T09:36:45Z"}
